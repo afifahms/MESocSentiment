@@ -7,10 +7,6 @@ Key features of this dataset include:
 - **Quality**: The data has been curated and cleaned for accuracy, with [mention if any missing values, duplicates were handled, etc.].
 - **Usability**: Available in [mention formats, e.g., CSV, JSON] and ready for use in [mention tools like Python, R, SQL].
 
-## Introduction
-
-The **MESocSentiment** corpus is a comprehensive dataset specifically designed for **sentiment analysis** tasks. This dataset contains a collection of [number of records] labeled text samples from [data sources, e.g., social media, product reviews, news articles] covering a wide range of topics such as [topics, e.g., customer feedback, movie reviews, etc.]. 
-
 Each text entry is annotated with sentiment labels, such as **positive**, **negative**, or **neutral**, making it ideal for training, validating, and benchmarking sentiment analysis models.
 
 ### Key Features:
