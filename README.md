@@ -8,11 +8,6 @@ Key features of this dataset include:
 - **Quality**: The data has been curated and cleaned for accuracy, with [mention if any missing values, duplicates were handled, etc.].
 - **Usability**: Available in [mention formats, e.g., CSV, JSON] and ready for use in [mention tools like Python, R, SQL].
 
-This dataset can be used for [describe potential use cases], such as:
-- [Example 1]
-- [Example 2]
-- [Example 3]
-
 For more detailed information on how the data is structured and how to use it, see the [Dataset Documentation](link to documentation) or the [Usage Instructions](#usage).
 
 ## Introduction
@@ -29,9 +24,7 @@ Each text entry is annotated with sentiment labels, such as **positive**, **nega
 ### Dataset Summary:
 - **Total Records**: 19, 714 tweets
 - **Sentiment Distribution**: [e.g., 40% positive, 35% negative, 25% neutral]
-- **Data Format**: The dataset is provided in **CSV** format, with the following fields:
-  - `Tweets`: The original text data (e.g., reviews, comments).
-  - `Sentiment`: The sentiment label (e.g., positive, negative, neutral).
+- **Data Format**: The dataset is provided in **CSV** format, containing tweets and sentiments.
 
 ### Use Cases:
 This dataset can be used for a variety of sentiment analysis tasks, including:
