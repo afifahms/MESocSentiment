@@ -2,8 +2,7 @@
 MESocSentiment: Code-Switched Malay-English Sentiment Analysis Corpus From Social Media Data  
 ## Introduction
 
-The **MESocSentiment** corpus is a collection of [briefly describe the dataset's content] aimed at [describe the purpose of the dataset]. This dataset contains [number of records, time span, geographic scope, etc.] and is intended for use in [mention key applications, e.g., machine learning, research, data analysis, etc.].
-
+The **MESocSentiment** corpus is a collection of code-switched Malay-English tweets for sentiment analysis task. This corpus contains 19, 714 Malaysia-based tweets.
 Key features of this dataset include:
 - **Diversity**: Includes data from [variety in data, e.g., different species, locations, etc.].
 - **Quality**: The data has been curated and cleaned for accuracy, with [mention if any missing values, duplicates were handled, etc.].
