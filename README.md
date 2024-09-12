@@ -27,13 +27,11 @@ Each text entry is annotated with sentiment labels, such as **positive**, **nega
 - **Preprocessed and Ready-to-Use**: The dataset has been cleaned, tokenized, and preprocessed (e.g., removal of stopwords, handling of special characters), making it ready for immediate use in natural language processing tasks.
 
 ### Dataset Summary:
-- **Total Records**: [Total number of records]
+- **Total Records**: 19, 714 tweets
 - **Sentiment Distribution**: [e.g., 40% positive, 35% negative, 25% neutral]
-- **Data Format**: The dataset is provided in **CSV** and **JSON** formats, with the following fields:
-  - `text`: The original text data (e.g., reviews, comments).
-  - `sentiment`: The sentiment label (e.g., positive, negative, neutral).
-  - `source`: The data source (optional, if applicable).
-  - `date`: The date of the entry (optional).
+- **Data Format**: The dataset is provided in **CSV** format, with the following fields:
+  - `Tweets`: The original text data (e.g., reviews, comments).
+  - `Sentiment`: The sentiment label (e.g., positive, negative, neutral).
 
 ### Use Cases:
 This dataset can be used for a variety of sentiment analysis tasks, including:
