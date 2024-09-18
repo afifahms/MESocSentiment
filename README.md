@@ -8,5 +8,5 @@ The **MESocSentiment** corpus is a collection of code-switched Malay-English twe
 For any inquiries, questions, or issues, feel free to reach out via:
 
 Email: afifahbms@gmail.com/sjsflora@unimas.my
-GitHub Issues: Create an issue
+
 
