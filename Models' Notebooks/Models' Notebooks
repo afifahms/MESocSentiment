@@ -1,1 +1,1 @@
-
+Python notebooks for six models: BERT, CNN, LSTM, SVM, Naive Bayes and Random Forest are compiled in this folder. The train set and test sets that were used in these notebooks currently put in the MESocSentiment folder with different names from the notebooks.
